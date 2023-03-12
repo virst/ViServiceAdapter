@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ViServiceAdapter": {
+      "commandName": "Project",
+      "commandLineArgs": "-f C:\\Users\\Admin\\Source\\Repos\\ViServiceAdapter\\TestApp1\\bin\\Release\\net6.0\\publish\\win-x64\\TestApp1.exe -w C:\\tmp\\ -e VAL_9=ABC&VAL_10=2 -a green -s MyServ"
+    }
+  }
+}

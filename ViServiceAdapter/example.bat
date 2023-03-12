@@ -1,0 +1,1 @@
+sc.exe create ".NET Vi Test ABC" binpath="C:\tmp\vtest\ViServiceAdapter.exe -s \".NET Vi Test ABC\" -f C:\tmp\vtest\TestApp1.exe -a zorro -e VAL_9=ABC -w c:\tmp"
